@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978956574050",
+    "project_id": "reader-app-1a46a",
+    "storage_bucket": "reader-app-1a46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978956574050:android:c17ae23146fbdb93f6a03b",
+        "android_client_info": {
+          "package_name": "com.hramadhaan.udemylearncompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978956574050-d8uq2lefro0ds3jutcub78a3832f3gq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXjKopWG8MhqHbAni6DNEII8xJhmeW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978956574050-d8uq2lefro0ds3jutcub78a3832f3gq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
